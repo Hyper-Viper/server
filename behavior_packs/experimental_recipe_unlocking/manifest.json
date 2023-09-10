@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "experimental recipe unlocking behavior pack",
+        "name": "experimental recipe unlocking",
+        "uuid": "69fc13ee-daf1-4a6c-9927-2a78ba40a63f",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "experimental recipe unlocking behavior pack",
+            "type": "data",
+            "uuid": "5aea8271-5673-4ff9-9237-683c80c68b38",
+            "version": [ 0, 0, 1 ]
+        }
+    ]
+}
